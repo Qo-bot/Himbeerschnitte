@@ -7,8 +7,8 @@ https://www.raspberrypi.org/software/
 https://github.com/pi-hole/pi-hole/#one-step-automated-install
 
 # Adlists for PiHole
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt <br>
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts <br>
 https://v.firebog.net/hosts/static/w3kbl.txt
 
 https://adaway.org/hosts.txt
