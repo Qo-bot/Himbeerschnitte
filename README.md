@@ -6,6 +6,11 @@ https://www.raspberrypi.org/software/
 ## PiHole
 https://github.com/pi-hole/pi-hole/#one-step-automated-install
 
+```
+wget -O basic-install.sh https://install.pi-hole.net
+sudo bash basic-install.sh
+```
+
 ### Adlists for PiHole
 
 #### Suspicious Lists
